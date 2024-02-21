@@ -1,0 +1,15 @@
+.card {
+    border: solid black 1px;
+    background-color: aliceblue;
+    width: 10rem;
+    height: 5rem;
+    text-align: center;
+    margin: 2rem;
+    min-width: 10rem;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    max-width: 30rem;
+}
